@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'Roboto';
+  src: local('Roboto');
+  src: url(../fonts/Roboto-Regular.ttf);
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: local('Roboto-Bold');
+  src: url(../fonts/Roboto-Bold.ttf);
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Philosopher';
+  src: local('Philosopher');
+  src: url(../fonts/Philosopher-Regular.ttf);
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Philosopher';
+  src: local('Philosopher');
+  src: url(../fonts/Philosopher-Bold.ttf);
+  font-weight: 700;
+  font-style: normal;
+}
